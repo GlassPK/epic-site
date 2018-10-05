@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 80px;
+  text-shadow: 3px 3px #cccccc;
+}
+
+body{
+  background-color: #aa44bb;
+}
+
+a{
+  font-size: 30px;
+}
+
+a:visited{
+  color: #aaaa00;
+  font-size: 30px;
+}
+
+p{
+  text-align: center;
+  font-family; fantasy;
+  font-size: 20px;
+  line-height: 1.6;
+
+}
+
+img{
+  text-align: center;
+}
+
+main{
+  padding-left: 8px;
+}
